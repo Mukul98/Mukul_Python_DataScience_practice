@@ -1,0 +1,1174 @@
+On Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projectsOn Wikipedia and other sites running on MediaWiki, Special:Random can be used to access a random article in the main namespace; this feature is useful as a tool to generate a random article. Depending on your browser, it's also possible to load a random page using a keyboard shortcut (in Firefox, Edge, and Chrome Alt-Shift+X).
+
+To create a link to a random page in a different namespace, use [[Special:Random/Namespace]]. For example, Special:Random/Talk will take you to a random article's talk page.
+
+Display a random page in other namespaces:
+Article Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+   
+Display a random redirect in other namespaces:
+Main Talk
+User Talk
+Wikipedia Talk
+File Talk
+MediaWiki Talk
+Template Talk
+Help Talk
+Category Talk
+Portal Talk
+Draft Talk
+TimedText Talk
+Module Talk
+
+ 
+If you are wondering if the "random article" feature is really random, read the answer here.
+
+See also
+Wikipedia:Random page patrol
+Wikipedia:Random pages test
+Wikipedia:Wiki-Link Game – fun with the Random article feature
+Wikipedia:Enhanced Random Article – custom script
+randomlink.js – tool to follow a random link or go to a random page in a category, list or WikiProject
+Special:RandomInCategory
+Template:Random page in category
+Wikimedia sister projects
+Wikiversity:Random
+Wiktionary:Random page
+Wikinews:Portal:Random
+External links
+mw:API:Random, documentation for the Mediawiki Random API, which generates an arbitrary number of random pages from a MediaWiki site, optionally filtered by namespace
+Random Article Project
+Wikimedia Tool Labs random article tool—Random article per category in most Wikimedia projects
