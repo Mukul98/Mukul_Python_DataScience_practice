@@ -9,12 +9,12 @@ B-25696,275,-275,4,Clothing,Saree,COD
 B-25687,387,-213,5,Clothing,Saree,UPI
 B-25643,50,-44,2,Clothing,Hankerchief,UPI
 B-25851,135,-54,5,Clothing,Kurti,COD
-B-25703,231,-190,9,Clothing,Hankerchief,COD
+B-25703,null,-190,9,Clothing,Hankerchief,COD
 B-25887,2125,-234,6,Electronics,Printers,EMI
 B-25923,3873,-891,6,Electronics,Phones,Credit Card
 B-25756,729,-492,5,Furniture,Bookcases,UPI
 B-25761,2188,1050,5,Furniture,Bookcases,Credit Card
-B-25655,6,-3,1,Clothing,Hankerchief,UPI
+B-25655,null,-3,1,Clothing,Hankerchief,UPI
 B-25786,1854,433,5,Furniture,Bookcases,Credit Card
 B-26095,6,1,1,Clothing,Kurti,UPI
 B-25853,2093,721,5,Furniture,Chairs,Credit Card
