@@ -3,3 +3,6 @@ pandas
 ipykernel
 requests
 numpy
+lxml
+openpyxl
+matplotlib
